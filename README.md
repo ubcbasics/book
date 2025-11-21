@@ -1,0 +1,7 @@
+# The B.A. CS Handbook
+
+Welcome! This handbook aims to be complimentary material to the [UBC Academic Calendar](https://vancouver.calendar.ubc.ca/) for students at any point in their [Bachelor of Arts in Computer Science](https://you.ubc.ca/ubc_programs/computer-science-vancouver-ba/) at UBC Vancouver. This book aims to give peer insights on how to smoothly complete a fun and educational degree by clarifying policies, recommending options, and publishing information which would otherwise not be posted by the Faculty or Department.
+
+This book is a project of [**UBC BASICS**](https://ubcbasics.org), the student group for B. A. Students In CS. It is not official documentation from the Faculty of Arts or Department of Computer Science. However, all content in this book is sourced from official UBC sources or written in consultation with undergraduate advising staff members - we aim to support all claims with a footnote linking directly to the source material. It is heavily encouraged to verify claims in this book before planning your degree around them, as misinterpretations or changes in information are possible, but our intention is to ideally save students from most trips to academic advising offices and point out nuances which students may need to pay special attention to.
+
+Notice anything off? This book is open source! Please read the "[Fix This Book!](contributing.md)" guide to submit a pull request with the needed edits.
