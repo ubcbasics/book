@@ -9,6 +9,6 @@ For example, a student who intends to take CPSC_V 110 and CPSC_V 121 in their fi
 ## Parallel Planning
 Arts One grants students 6 credits of PHIL_V[^1], leaving them automatically eligible to apply for Cognitive Systems if taking the required CPSC_V courses. Credits earned in CAP depend on the stream enrolled in. In order to be eligible for Cognitive Systems, students in CAP must enrol in a stream which includes at least 1 PHIL_V, PSYC_V, or LING_V course. See the [parallel planning guide](parallel-planning.md) for more details.
 
-[^1]: [Registration | Program | Arts One | University of British Columbia](https://artsone.arts.ubc.ca/program/registration/), as of [November 20 2025]()
-[^2]: [Registration | Coordinated Arts Program | University of British Columbia](https://cap.arts.ubc.ca/program/registration/), as of [November 20 2025]()
-[^3]: [Credit Limits & Increases | Faculty of Arts | University of British Columbia](https://www.arts.ubc.ca/degree-planning/course-registration/credit-limits-increases/), as of [November 20 2025]()
+[^1]: [Registration | Program | Arts One | University of British Columbia](https://artsone.arts.ubc.ca/program/registration/), as of [November 20 2025](https://web.archive.org/web/20251121073217/https://artsone.arts.ubc.ca/program/registration/)
+[^2]: [Registration | Coordinated Arts Program | University of British Columbia](https://cap.arts.ubc.ca/program/registration/), as of [November 20 2025](https://web.archive.org/web/20251121073714/https://cap.arts.ubc.ca/program/registration/)
+[^3]: [Credit Limits & Increases | Faculty of Arts | University of British Columbia](https://www.arts.ubc.ca/degree-planning/course-registration/credit-limits-increases/), as of [November 20 2025](https://web.archive.org/web/20251121073915/https://www.arts.ubc.ca/degree-planning/course-registration/credit-limits-increases/)

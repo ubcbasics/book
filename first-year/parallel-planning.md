@@ -8,7 +8,7 @@ Eligibility to apply requires 2nd year standing and at least 9 credits across at
 
 Students can apply to both Computer Science and Cognitive Systems at the same time during April. Upon admission to Cognitive Systems, students are given a choice to accept their offer, which they may choose to decline upon notification of admission to Computer Science in order to free their seat for another applicant. There are currently 60 seats allocated to Arts students, with no distinction made between domestic or international applicants. The minimum accepted GPA per year is traditionally lower than Computer Science, only recommending students to submit a resume/CV and personal statement with GPAs of 80% and below.[^4]
 
-[^1]: [Careers | Cognitive Systems Program](https://cogsys.ubc.ca/careers/), as of [November 20 2025]()
-[^2]: [Admission Requirements | Cognitive Systems Program](https://cogsys.ubc.ca/applying-to-cognitive-systems/admission-requirements/), as of [November 20 2025]()
-[^3]: [Application Evaluation | Cognitive Systems Program](https://cogsys.ubc.ca/applying-to-cognitive-systems/application-evaluation/), as of [November 20 2025]()
-[^4]: [Applying to the COGS Program | Cognitive Systems Program](https://cogsys.ubc.ca/faq/applying-to-the-cogs-program/), as of [November 20 2025]()
+[^1]: [Careers | Cognitive Systems Program](https://cogsys.ubc.ca/careers/), as of [November 20 2025](https://web.archive.org/web/20251121074212/https://cogsys.ubc.ca/careers/)
+[^2]: [Admission Requirements | Cognitive Systems Program](https://cogsys.ubc.ca/applying-to-cognitive-systems/admission-requirements/), as of [November 20 2025](https://web.archive.org/web/20251121074500/https://cogsys.ubc.ca/applying-to-cognitive-systems/admission-requirements/)
+[^3]: [Application Evaluation | Cognitive Systems Program](https://cogsys.ubc.ca/applying-to-cognitive-systems/application-evaluation/), as of [November 20 2025](https://web.archive.org/web/20251121074805/https://cogsys.ubc.ca/applying-to-cognitive-systems/application-evaluation/)
+[^4]: [Applying to the COGS Program | Cognitive Systems Program](https://cogsys.ubc.ca/faq/applying-to-the-cogs-program/), as of [November 20 2025](https://web.archive.org/web/20251121075030/https://cogsys.ubc.ca/faq/applying-to-the-cogs-program/)

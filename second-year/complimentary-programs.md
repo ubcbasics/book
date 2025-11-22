@@ -23,6 +23,6 @@ Note that specific CPSC_V courses may be double-counted towards both the major i
 Admission to the major is a determined by academic performance, so MATH_V 220 may be left as a non-Arts elective if not accepted into the program. However, if already accepted into the major in Computer Science, your academic performance is likely strong enough to mitigate this risk. Note that specific CPSC_V courses may be double-counted towards both the major in Computer Science and major in Mathematics.
 
 [^1]: Missing source.
-[^2]: [Music | UBC Academic Calendar](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/music), as of [November 20 2025]()
-[^3]: [Courses Outside Linguistics | UBC Linguistics Department](https://linguistics.ubc.ca/undergraduate/courses/courses-outside-linguistics/), as of [November 20 2025]()
-[^4]: [Mathematics | UBC Academic Calendar](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/mathematics), as of [November 20 2025]()
+[^2]: [Music | UBC Academic Calendar](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/music), as of [November 20 2025](https://web.archive.org/web/20251121075414/https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/music)
+[^3]: [Courses Outside Linguistics | UBC Linguistics Department](https://linguistics.ubc.ca/undergraduate/courses/courses-outside-linguistics/), as of [November 20 2025](https://web.archive.org/web/20251121075628/https://linguistics.ubc.ca/undergraduate/courses/courses-outside-linguistics/)
+[^4]: [Mathematics | UBC Academic Calendar](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/mathematics), as of [November 20 2025](https://web.archive.org/web/20251121075913/https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/mathematics)

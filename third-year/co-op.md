@@ -22,6 +22,6 @@ Within Science Co-op, B.A. students are given equal access to postings available
 | 4    | Work Term 1                   | Work Term 2  | Work Term 3 |
 | 5    | Study Term 7                  | Study Term 8 |        -    |
 
-[^1]: [Computer Science | Science Co-op](https://sciencecoop.ubc.ca/prospective/apply/cs), as of [November 20 2025]()
-[^2]: [Arts Co-op Undergrad One-Pager](https://artscoop.ubc.ca/wp-content/uploads/sites/41/2023/02/W2023-02-UG-OnePager.pdf), as of [November 20 2025]()
+[^1]: [Computer Science | Science Co-op](https://sciencecoop.ubc.ca/prospective/apply/cs), as of [November 20 2025](https://web.archive.org/web/20251121080212/https://sciencecoop.ubc.ca/prospective/apply/cs)
+[^2]: [Arts Co-op Undergrad One-Pager](https://artscoop.ubc.ca/wp-content/uploads/sites/41/2023/02/W2023-02-UG-OnePager.pdf), as of [November 20 2025](https://web.archive.org/web/20251121080435/https://artscoop.ubc.ca/wp-content/uploads/sites/41/2023/02/W2023-02-UG-OnePager.pdf/)
 [^3]: Missing source.
