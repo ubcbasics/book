@@ -10,8 +10,10 @@ The Research Component of the Writing and Research Requirement requires that all
   - Students join a team of Master in Digital Media students and spend 20 hours a week over 1 term working on a real industry-sponsored interactive media design project. Hosted at the campus of the Centre for Digital Media, a joint venture of UBC, SFU, ECU, and BCIT.[^4]
 - CPSC_V 410 - Advanced Software Engineering (3 credits)
 - CPSC_V 444 - Advanced Methods for Human Computer Interaction (3 credits)
+- CPSC_V 455[^5] - Applied Industry Practices (3 credits)
 
 [^1]: [Degree Requirements for students who enter the program in 2024/25 or later | UBC Academic Calendar](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/degree-requirements-students-who-enter-program-202425-or-later), as of [November 20 2025](https://web.archive.org/web/20251121072747/https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/degree-requirements-students-who-enter-program-202425-or-later)
 [^2]: [Course Description - CPSC 319](https://www.students.cs.ubc.ca/~cs-319/), as of [November 20 2025](https://web.archive.org/web/20251121080727/https://www.students.cs.ubc.ca/~cs-319/)
 [^3]: [Specialty Courses (Independent Studies) | Computer Science at UBC](https://www.cs.ubc.ca/students/undergrad/courses/specialty), as of [November 21 2025](https://web.archive.org/web/20251121081026/https://www.cs.ubc.ca/students/undergrad/courses/specialty)
 [^4]: [Digital Media Practicum: UBC Qualifications and Application | Centre for Digital Media](https://thecdm.ca/program/mdm/digital-media-practicum-ubc-admissions), as of [November 21 2025](https://web.archive.org/web/20251122000543/https://thecdm.ca/program/mdm/digital-media-practicum-ubc-admissions)
+[^5]: [Bachelor of Arts (BA) Degree Requirements - Faculty of Arts](https://www.arts.ubc.ca/degree-planning/degree-requirements/bachelor-of-arts/), as of [December 2 2025](https://web.archive.org/web/20251202213505/https://www.arts.ubc.ca/degree-planning/degree-requirements/bachelor-of-arts/)
