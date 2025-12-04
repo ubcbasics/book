@@ -91,6 +91,9 @@ Impacts of changing information and communication technologies on societies and 
 Investigation of media objects shaped by algorithms, through a balance of foundational concepts and hands-on experimentation. Examines perspectives on aesthetics, the impact of technology on media, and ethics.
 
 ## Creative Writing
+### CRWR_V 208 (3) Introduction to Writing for Graphic Forms
+Techniques of and practice in creating, developing, and writing the graphic novel, manga, and other forms of illustrated writing. The ability to draw is not required. Manuscript submission is not required for admission.
+
 ### CRWR_V 213 (3) Introduction to Writing for the New Media
 An exploration of and practice in writing for new media, including podcasting, blogging, and writing for websites, games, and online environments. Manuscript submission is not required for admission.
 
