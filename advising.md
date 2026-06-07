@@ -12,7 +12,7 @@ The Department of Computer Science offers asynchronous advising by email at unde
 The fastest way to contact the department is through online drop-in advising. Drop-in advising is available on Mondays and Wednesdays from 11 A.M. to 12 P.M., and on Fridays from 10 A.M. to 11 A.M. Advising takes place in a [dedicated Zoom meeting room](https://ubc.zoom.us/j/6763530441?pwd=z5NRbsYlYW6VaaSVhraY9k4a6EyjcG.1&omn=62788109456).
 
 ## Computer Science Co-op Advising
-The coordinator for the B.A. CS co-op program is Lindsay Grant. She can be contacted by email at lgrant@sciencecoop.ubc.ca or by phone at 604-827-5350.
+The coordinators for the B.A. CS co-op program are Danielle Kershaw and Krista Slaman. Danielle can be contacted by email at dkershaw@sciencecoop.ubc.ca or by phone at 604-822-9640. Krista can be contacted by email at kslaman@sciencecoop.ubc.ca or by phone at 604-827-3733. 
 
 The Computer Science Co-op office can be contacted by email at cscoop@sciencecoop.ubc.ca or by phone at 604-822-8844. The office is located inside ICICS in room 106 next to the West Wing atrium.
 
