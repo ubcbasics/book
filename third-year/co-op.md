@@ -1,5 +1,5 @@
 # Co-op
-UBC Co-op allows students to incorporate full-time work placements into their studies. B.A. CS students are eligible for both Arts Co-op and Science Co-op.[^1][^2] Note that unlike Science Co-op, students in Arts Co-op enter a general pool of Arts students and do not get access to support or job listings specific to Computer Science students[^3], so it is not the recommended option. Note that credits earned with either co-op program are non-academic credits, and as such they will not apply towards any degree requirements whatsoever.
+UBC Co-op allows students to incorporate full-time work placements into their studies. B.A. CS students are eligible for both Arts Co-op and Science Co-op.[^1][^2] Note that credits earned with either co-op program are non-academic credits, and as such they will not apply towards any degree requirements whatsoever.
 
 ## Science Co-op
 Within Science Co-op, B.A. students are given equal access to postings available to Science students and a dedicated advisor. [Eligibility conditions](https://sciencecoop.ubc.ca/prospective/apply/cs) apply and admissions are determined by an application. Students are encouraged to apply starting in their second year and are recommended to follow one of the 2 following schedules:[^1]
@@ -24,4 +24,3 @@ Within Science Co-op, B.A. students are given equal access to postings available
 
 [^1]: [Computer Science | Science Co-op](https://sciencecoop.ubc.ca/prospective/apply/cs), as of [November 20 2025](https://web.archive.org/web/20251121080212/https://sciencecoop.ubc.ca/prospective/apply/cs)
 [^2]: [Arts Co-op Undergrad One-Pager](https://artscoop.ubc.ca/wp-content/uploads/sites/41/2023/02/W2023-02-UG-OnePager.pdf), as of [November 20 2025](https://web.archive.org/web/20251121080435/https://artscoop.ubc.ca/wp-content/uploads/sites/41/2023/02/W2023-02-UG-OnePager.pdf/)
-[^3]: Missing source.
