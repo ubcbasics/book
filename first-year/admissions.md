@@ -4,9 +4,9 @@ Admissions are determined by a single metric, referred to as the "key average." 
 After applications are received, the key averages are calculated for all eligible students and the top ranked students are admitted, typically accepting 40 per cycle. In addition to those ~40, students may be specially considered if they submit documentation of how extenuating circumstances affected their academic functions, such as medical conditions. Historically, this accounts for no more than 3 additional acceptances per year. The lowest key average of any admitted student in a given year (excluding students admitted due to extenuating circumstances) is unofficially referred to as that year's "cut-off."
 
 ## Historical Key Average Cut-offs
-<iframe src="https://quickchart.io/chart-maker/view/zm-d71e8cd2-703e-452b-9ed4-37eb222dc8cd" frameborder="0" width="100%" height="385"></iframe>
+<iframe src="https://quickchart.io/chart-maker/view/zm-d81b6403-c38a-4751-80fd-dbfe4a135375" frameborder="0" width="100%" height="385"></iframe>
 
 ## Historical Acceptance Rates
-<iframe src="https://quickchart.io/chart-maker/view/zm-d68cb049-0af3-4170-ab4e-1ec636fee6b6" frameborder="0" width="100%" height="385"></iframe>
+<iframe src="https://quickchart.io/chart-maker/view/zm-989da7ed-8ae1-4be5-8ec4-f277808901e7" frameborder="0" width="100%" height="385"></iframe>
 
 > This page does not contain sources because its' content has been personally sourced from the Department of Computer Science, as of November 28 2025
