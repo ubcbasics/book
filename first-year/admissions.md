@@ -9,4 +9,4 @@ After applications are received, the key averages are calculated for all eligibl
 ## Historical Acceptance Rates
 <iframe src="https://quickchart.io/chart-maker/view/zm-989da7ed-8ae1-4be5-8ec4-f277808901e7" frameborder="0" width="100%" height="385"></iframe>
 
-> This page does not contain sources because its' content has been personally sourced from the Department of Computer Science, as of November 28 2025
+> This page does not contain sources because its' content has been personally sourced from the Department of Computer Science, as of July 23 2026
